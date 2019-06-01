@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267662137189",
+    "firebase_url": "https://translatorlens.firebaseio.com",
+    "project_id": "translatorlens",
+    "storage_bucket": "translatorlens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267662137189:android:56315918fcb97172",
+        "android_client_info": {
+          "package_name": "com.accretion.translator_lens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267662137189-ip51qg5jpp68b8jafg5t42pv5r3kaugl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOXVyTnLO__rJSanPLl8VK60V4aDn7es4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267662137189-ip51qg5jpp68b8jafg5t42pv5r3kaugl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
